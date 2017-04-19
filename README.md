@@ -1,4 +1,7 @@
-# test coverage for  [grunt-banner (v0.6.0)](https://github.com/mattstyles/grunt-banner)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-banner.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-banner) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-banner.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-banner)
+# npmtest-grunt-banner
+
+#### test coverage for  [grunt-banner (v0.6.0)](https://github.com/mattstyles/grunt-banner)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-banner.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-banner) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-banner.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-banner)
+
 #### Adds a simple banner to files
 
 [![NPM](https://nodei.co/npm/grunt-banner.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-banner)
